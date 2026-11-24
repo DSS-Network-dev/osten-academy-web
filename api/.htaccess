@@ -1,0 +1,4 @@
+# Solo el endpoint del formulario es accesible
+<Files "config.php">
+  Require all denied
+</Files>

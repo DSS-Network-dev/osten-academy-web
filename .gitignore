@@ -1,0 +1,7 @@
+/vendor/
+/lib/app_data_local.php
+composer.lock
+composer.phar
+.DS_Store
+Thumbs.db
+*.log

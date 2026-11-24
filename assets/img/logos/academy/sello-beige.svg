@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="511.107" height="479.079" viewBox="0 0 511.107 479.079">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_267" data-name="Rectángulo 267" width="511.107" height="479.079" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_179" data-name="Grupo 179" transform="translate(466.455 867.125)">
+    <g id="Grupo_176" data-name="Grupo 176" transform="translate(-466.455 -867.125)">
+      <g id="Grupo_151" data-name="Grupo 151">
+        <g id="Grupo_150" data-name="Grupo 150" clip-path="url(#clip-path)">
+          <path id="Trazado_392" data-name="Trazado 392" d="M122.343,122.343A426.123,426.123,0,0,1,309.49,12.8,233.228,233.228,0,0,0,12.8,309.49,426.123,426.123,0,0,1,122.343,122.343" transform="translate(-0.001 -0.001)" fill="#d0d09f"/>
+          <path id="Trazado_393" data-name="Trazado 393" d="M246.965,49.172A156.7,156.7,0,1,1,49.172,246.965,426.222,426.222,0,0,0,15.845,343.5,234.524,234.524,0,0,0,33.157,362.9c91.055,91.058,238.686,91.058,329.744,0s91.055-238.686,0-329.744a235.63,235.63,0,0,0-19.4-17.308,426.33,426.33,0,0,0-96.539,33.327" transform="translate(35.122 35.122)" fill="#003b4d"/>
+          <path id="Trazado_394" data-name="Trazado 394" d="M189.89,211.693H95.139L79.555,256.525H39.808L120.576,33.948h43.877L244.9,256.525H205.474Zm-12.078-34.35L142.513,76.87l-35.3,100.473Z" transform="translate(88.237 75.248)" fill="#003b4d"/>
+        </g>
+      </g>
+      <text id="O" transform="translate(189.145 433.357) rotate(7.056)" fill="#d0d09f" font-size="44" font-family="Gilroy-SemiBold, Gilroy" font-weight="600"><tspan x="0" y="0">O</tspan></text>
+      <text id="s" transform="translate(232.257 439.557) rotate(-2.865)" fill="#d0d09f" font-size="46" font-family="Gilroy-SemiBold, Gilroy" font-weight="600"><tspan x="0" y="0">s</tspan></text>
+      <text id="t" transform="translate(256.333 435.13) rotate(-9.203)" fill="#d0d09f" font-size="43" font-family="Gilroy-SemiBold, Gilroy" font-weight="600"><tspan x="0" y="0">t</tspan></text>
+      <text id="e" transform="translate(277.361 433.89) rotate(-16.368)" fill="#d0d09f" font-size="45" font-family="Gilroy-SemiBold, Gilroy" font-weight="600"><tspan x="0" y="0">e</tspan></text>
+      <text id="n" transform="translate(309.158 425.175) rotate(-25.358)" fill="#d0d09f" font-size="46" font-family="Gilroy-SemiBold, Gilroy" font-weight="600"><tspan x="0" y="0">n</tspan></text>
+      <text id="_" data-name=" " transform="translate(336.254 410.544) rotate(-31.809)" fill="#d0d09f" font-size="45" font-family="Gilroy-SemiBold, Gilroy" font-weight="600"><tspan x="0" y="0"> </tspan></text>
+      <text id="A" transform="translate(348.618 400.989) rotate(-38.982)" fill="#d0d09f" font-size="43" font-family="Gilroy-SemiBold, Gilroy" font-weight="600"><tspan x="0" y="0">A</tspan></text>
+      <text id="c" transform="translate(376.005 378.11) rotate(-48.308)" fill="#d0d09f" font-size="43" font-family="Gilroy-SemiBold, Gilroy" font-weight="600"><tspan x="0" y="0">c</tspan></text>
+      <text id="a-2" data-name="a" transform="matrix(0.539, -0.842, 0.842, 0.539, 395.06, 355.012)" fill="#d0d09f" font-size="42" font-family="Gilroy-SemiBold, Gilroy" font-weight="600"><tspan x="0" y="0">a</tspan></text>
+      <text id="d" transform="translate(413.716 325.098) rotate(-67.296)" fill="#d0d09f" font-size="42" font-family="Gilroy-SemiBold, Gilroy" font-weight="600"><tspan x="0" y="0">d</tspan></text>
+      <text id="e-2" data-name="e" transform="translate(429.716 293.267) rotate(-76.867)" fill="#d0d09f" font-size="45" font-family="Gilroy-SemiBold, Gilroy" font-weight="600"><tspan x="0" y="0">e</tspan></text>
+      <text id="m" transform="translate(437.545 259.827) rotate(-88.276)" fill="#d0d09f" font-size="45" font-family="Gilroy-SemiBold, Gilroy" font-weight="600"><tspan x="0" y="0">m</tspan></text>
+      <text id="y" transform="translate(437.684 213.428) rotate(-99.067)" fill="#d0d09f" font-size="45" font-family="Gilroy-SemiBold, Gilroy" font-weight="600"><tspan x="0" y="0">y</tspan></text>
+    </g>
+  </g>
+</svg>

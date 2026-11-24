@@ -1,0 +1,7 @@
+{
+    "name": "dssnetwork/osten-academy-web",
+    "description": "Web corporativa de Osten Academy - academy.osten.es",
+    "require": {
+        "phpmailer/phpmailer": "~6.0"
+    }
+}

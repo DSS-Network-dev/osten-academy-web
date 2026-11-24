@@ -16,7 +16,7 @@ AddType font/woff2 .woff2
   <FilesMatch "\.(css|js|png|jpe?g|webp|svg|woff2)$">
     Header set Cache-Control "public, max-age=2592000"
   </FilesMatch>
-  <FilesMatch "\.html$">
+  <FilesMatch "\.php$">
     Header set Cache-Control "no-cache"
   </FilesMatch>
 </IfModule>
@@ -25,10 +25,16 @@ AddType font/woff2 .woff2
   AddOutputFilterByType DEFLATE text/html text/css application/javascript image/svg+xml
 </IfModule>
 
-# No servir archivos de documentación
-<FilesMatch "^(README\.md|\.gitignore)$">
+# No servir archivos internos
+<FilesMatch "^(README\.md|\.gitignore|composer\.(json|lock))$">
   Require all denied
 </FilesMatch>
+<Files "composer.phar">
+  Require all denied
+</Files>
 
-ErrorDocument 404 /404.html
-DirectoryIndex index.html
+# Proteger lib/ (solo se incluye vía PHP)
+RewriteRule ^lib/ - [F,L]
+
+ErrorDocument 404 /404.php
+DirectoryIndex index.php

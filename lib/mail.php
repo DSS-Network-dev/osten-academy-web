@@ -34,8 +34,11 @@ function ini_email(): PHPMailer
     $email->SMTPAuth = (bool)$smtp['auth'];
     $email->Username = $smtp['username'];
     $email->Password = $smtp['password'];
-    $email->SMTPSecure = $smtp['secure'];
+    $email->SMTPSecure = $smtp['secure'] ?: '';
     $email->Port = (int)$smtp['port'];
+    if (empty($smtp['secure'])) {
+        $email->SMTPAutoTLS = false;
+    }
     $email->CharSet = 'UTF-8';
     $email->isHTML(false);
 
